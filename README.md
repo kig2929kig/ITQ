@@ -19,4 +19,5 @@ Excel 2016 <br>
  * 답안 시트 이름은 "제1작업","제2작업", "제3작업", "제4작업"
 
 3. 강의 주소 : https://koredu.liveklass.com/classes/107145
+ * koredu040
 
