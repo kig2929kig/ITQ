@@ -18,4 +18,5 @@ Excel 2016 <br>
  * 문제는 총 4단계이며, 반드시 제1작업부터 순서대로 작성
  * 답안 시트 이름은 "제1작업","제2작업", "제3작업", "제4작업"
 
-3. 강의 주소 :  [me2](https://koredu.liveklass.com/classes/107145)
+3. 강의 주소 : https://koredu.liveklass.com/classes/107145
+
